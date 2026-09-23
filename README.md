@@ -1,6 +1,6 @@
 # Analyse et reporting SQL — ventes d'une boutique musicale
 
-**Projet portfolio de Layla EL GOZMIR.** Une base relationnelle, cinq questions métier et un reporting vérifié, exécutables sans compte cloud.
+ Une base relationnelle, cinq questions métier et un reporting vérifié, exécutables sans compte cloud.
 
 ![Schéma](docs/schema.svg)
 
