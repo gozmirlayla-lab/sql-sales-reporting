@@ -1,0 +1,25 @@
+billing_country,orders,buyers,revenue_cents,share_percent
+USA,91,13,52306,22.46
+Canada,56,8,30396,13.05
+France,35,5,19510,8.38
+Brazil,35,5,19010,8.16
+Germany,28,4,15648,6.72
+United Kingdom,21,3,11286,4.85
+Czech Republic,14,2,9024,3.88
+Portugal,14,2,7724,3.32
+India,13,2,7526,3.23
+Chile,7,1,4662,2.0
+Hungary,7,1,4562,1.96
+Ireland,7,1,4562,1.96
+Austria,7,1,4262,1.83
+Finland,7,1,4162,1.79
+Netherlands,7,1,4062,1.74
+Norway,7,1,3962,1.7
+Sweden,7,1,3862,1.66
+Argentina,7,1,3762,1.62
+Australia,7,1,3762,1.62
+Belgium,7,1,3762,1.62
+Denmark,7,1,3762,1.62
+Italy,7,1,3762,1.62
+Poland,7,1,3762,1.62
+Spain,7,1,3762,1.62

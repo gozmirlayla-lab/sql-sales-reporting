@@ -1,0 +1,23 @@
+customer_id,country,orders,revenue_cents,value_rank
+6,Czech Republic,7,4962,1
+26,USA,7,4762,2
+57,Chile,7,4662,3
+45,Hungary,7,4562,4
+46,Ireland,7,4562,4
+24,USA,7,4362,5
+28,USA,7,4362,5
+37,Germany,7,4362,5
+7,Austria,7,4262,6
+25,USA,7,4262,6
+44,Finland,7,4162,7
+5,Czech Republic,7,4062,8
+43,France,7,4062,8
+48,Netherlands,7,4062,8
+1,Brazil,7,3962,9
+3,Canada,7,3962,9
+4,Norway,7,3962,9
+17,USA,7,3962,9
+20,USA,7,3962,9
+22,USA,7,3962,9
+34,Portugal,7,3962,9
+42,France,7,3962,9

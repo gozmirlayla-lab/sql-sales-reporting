@@ -1,0 +1,16 @@
+{
+  "source_sha256": "bdf635be69850bd3be09c9a2dbeef7ddfb80036bd3ef3381383cd03b61e4a61a",
+  "totals": {
+    "orders": 412,
+    "revenue_cents": 232860,
+    "buyers": 59,
+    "first_date": "2009-01-01 00:00:00",
+    "last_date": "2013-12-22 00:00:00"
+  },
+  "checks": {
+    "foreign_key_errors": 0,
+    "invoice_mismatches": 0,
+    "joined_line_count_matches": true,
+    "revenue_totals_match": true
+  }
+}
